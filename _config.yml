@@ -1,7 +1,7 @@
 name: B by Akshay A Baliga
 favicon: null
-layout_spectrum: 0.015390244545415044
-typography_spectrum: 0.45872204564511776
+layout_spectrum: 0.61782
+typography_spectrum: 0.89955
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5404309877194464
-  lightness: 0.9083866570144892
-  saturation: 0.35241427179425955
-  rhythmicContrast: 0.05316232261247933
+    - '#000000'
+    - '#fefefe'
+    - '#272727'
+    - '#a3a3a3'
+    - '#9e0404'
+  brandStrength: 0.75
+  lightness: 0.0625
+  saturation: 0.8125
+  rhythmicContrast: 0
 purpose: []
